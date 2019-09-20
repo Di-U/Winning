@@ -1,2 +1,3 @@
 # Winning
-Teaching them GitHub
+Teaching them GitHub.
+They are really good students, i am amazed.
